@@ -1,0 +1,183 @@
+.beginners{
+    width: 130px;
+    border-radius: 10px;
+}
+.right-page{
+    margin-left: 50px;
+}
+.Sponsored{
+    color: gray;
+    margin-bottom: 20px;
+}
+.massive{
+    display: flex;
+    align-items: center;
+    color: gray;
+    margin-top: 14px;
+}
+.massive:hover{
+    background-color: rgb(230, 228, 245);
+    border-radius: 12px;
+    cursor: pointer;
+}
+.massiven{
+    margin-left: 12px;
+    font-weight: bold;
+    font-size: 15px;
+}
+.funded{
+    margin-left: 12px;
+    font-size: 10px;
+}
+.profile-lane{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: gray;
+    font-weight: 650;
+    font-size: 15px;
+}
+.leftpro{
+    border-radius: 50%;
+    height: 30px;
+    width: 30px;
+    object-fit: cover;
+}
+.lefttt{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 15px;
+    font-size: 14px;
+    padding-left: 4px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    border-radius: 8px;
+}
+.lefttt:hover{
+    background-color: rgb(230, 228, 245);
+}
+.mac{
+    margin-top: -4px;
+    margin-right: 184px;
+}
+.message-time{
+    width: 30px;
+    height: 30px;
+}
+.flex-one{
+    display: flex;
+    align-items: center;
+    margin-left: 15px;
+    border-radius: 5px;
+    font-size: 12px;
+    color: grey;
+}
+.flex-one:hover{
+    background-color: rgb(230, 228, 245);
+}
+.five{
+    margin-bottom: 5px;
+}
+.Friendbox,
+.suggestion-page{
+    display: flex;
+    justify-content: space-between;
+    font-size: 15px;
+    margin-top: 8px;
+}
+.suggestion-page:hover{
+    background-color: rgb(230, 228, 245);
+    cursor: pointer;
+    border-radius: 5px;
+}
+.Friend{
+    color: gray;
+    font-weight: 640;
+    padding: 5px;
+}
+.see{
+    color: blue;
+    padding: 5px;
+}
+.see:hover{
+    background-color: rgb(230, 228, 245);
+    cursor: pointer;
+}
+.mutuals,
+.button{
+    display: flex;
+    color: grey;
+    font-size: 14px;
+    margin-top: 5px;
+}
+.smaller{
+    height: 50px;
+    border-radius: 50%;
+    margin-top: 10px;
+    object-fit: cover;
+    margin-right: 5px;
+}
+.sg{
+    border-radius: 50%;
+    height: 20px;
+    margin-right: 4px;
+}
+.myconfirm{
+    padding: 12px 36px 12px 36px;
+    border: none;
+    color: white;
+    background-color: rgb(56, 56, 182);
+    border-radius: 7px;
+    font-weight: bolder;
+    margin-right: 3px;
+}
+.delete{
+    padding: 12px 36px 12px 36px;
+    border: none;
+    background-color: rgb(230, 221, 221);
+    border-radius: 7px;
+    font-weight: bolder;
+}
+.dd{
+    margin-left: -39px;
+    color: gray;
+    font-size: 12px;
+}
+.centertime{
+    margin-left: -27px;
+}
+.contact{
+    display: flex;
+    justify-content: space-between;
+    color: gray;
+}
+.iconic{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    border: none;
+}
+.iconics{
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+}
+.propics{
+    display: flex;
+    margin-top: 4px;
+    padding-top: 10px;
+    padding-left: 8px;
+    border-radius: 5px;
+}
+.propics:hover{
+    background-color: rgb(230, 221, 221);
+    cursor: pointer;
+}
+.pros{
+    border-radius: 50%;
+    height: 30px;
+    width: 30px;
+    margin-right: 12px;
+    margin-top: -3px;
+}

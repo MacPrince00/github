@@ -1,0 +1,217 @@
+.stories{
+    display: flex;
+    width: 630px;
+    justify-content: space-between;
+    margin-left: 150px;
+}
+.story-display{
+    width: 150px;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 15px;
+}
+.first-story-inline{
+    position: absolute;
+    background-color: white;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    right: 0px;
+    left: 0px;
+    bottom: 0px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    display: flex;
+    justify-content: center;
+    font-size: 13px;
+}
+.mystory{
+    position: relative;
+    
+}
+.plus-icon{
+    position: absolute;
+    bottom: 25px;
+    right: 55px;
+
+}
+.plus-icon-img{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+.story-names{
+    position: absolute;
+    bottom: 10px;
+    color: white;
+    font-size: 13px;
+    left: 15px;
+}
+.story-pics{
+    position: absolute;
+    top: 15px;
+    left: 14px;
+    z-index: 2;
+}
+.story-img{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+.view{
+    background-color: blue;
+    position: absolute;
+    height: 46px;
+    width: 46px;
+    top: 12px;
+    left: 11px;
+    border-radius: 50%;
+}
+.move{
+    position: absolute;
+    font-weight: 1000px;
+    font-size: 40px;
+    top: 110px;
+    right: 30px;
+    background-color: white;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    padding: 0px 5px 5px 5px ;
+}
+.move:hover{
+    background-color: rgb(245, 245, 245);
+}
+.centerr{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.second{
+    background-color: white;
+    width: 630px;
+    margin-top: 20px;
+    margin-left: 150px;
+    border-radius: 10px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.25);
+}
+.profile-center{
+    border-radius: 50%;
+    margin-left: 18px;
+    margin-top: 10px;
+}
+.input{
+    width: 550px;
+    margin-right: 10px;
+    height: 40px;
+    border-radius: 30px;
+    border: none;
+    background-color: rgb(241, 241, 241);
+    margin-top: 8px;
+}
+.input::placeholder{
+    font-size: 18px;
+    padding: 10px;
+}
+.liner{
+    width: 600px;
+    height: -2px;
+}
+.downup{
+    display: flex;
+    padding: 5px 20px 5px 13px;
+    border-radius: 7px;
+}
+.downupp{
+    margin-right: 7px;
+}
+.secondcenter{
+    display: flex;
+    justify-content: space-between;
+    width: 570px;
+    margin-left: 40px;
+    color: gray;
+    font-size: 15px;
+    margin-bottom: 5px;
+}
+.input:hover,
+.downup:hover{
+    background-color: rgb(232, 228, 253);
+    cursor: pointer;
+}
+.rotop{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.verification{
+    height: 15px;
+    border-radius: 50%;
+}
+.prof{
+    display: flex;
+    margin-top: 10px;
+    margin-left: 15px;
+    font-size: 14px;
+}
+.ronaldo{
+    height: 40px;
+    border-radius: 50%;
+}
+.cristiano{
+    margin-left: 10px;
+}
+.badbutton{
+    margin-right: 12px;
+}
+.quote{
+    font-weight: 400;
+    margin-left: 15px;
+}
+.ro{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 12px;
+}
+.yy{
+    width: 314px;
+}
+.run{
+    display: flex;
+    justify-content: space-between;  
+}
+.yyy{
+    width: 208px;
+    margin-top: -2px;
+    margin-bottom: 10px;
+}
+.stick{
+    height: 20px;
+    margin-left: -5px;
+    margin-top: px;
+}
+.sticker{
+    height: 20px;
+    margin-left: 12px;
+}
+.bboo{
+    display: flex;
+    align-items: center;
+}
+.url{
+    height: 30px;
+    width: 30px;
+    object-fit: cover;
+    border-radius: 30%;
+}
+.uurrll{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.tym{
+    display: flex;
+    align-items: center;
+}
