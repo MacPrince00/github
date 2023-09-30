@@ -215,3 +215,86 @@
     display: flex;
     align-items: center;
 }
+.hover-time .profile-hover{
+    background-color: white;
+    position: absolute;
+    opacity: 0;
+    pointer-events: none;
+    padding: 0px 12px 15px 5px;
+    border-radius: 10px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.25);
+}
+.setting{
+    display: flex;
+}
+.setting-pic{
+    height: 70px;
+    border-radius: 50%;
+    margin-right: 20px;
+    margin-top: 15px;
+    margin-left: 12px;
+}
+.forveri{
+    height: 20px;
+}
+.profile-up{
+    display: flex;
+    margin-bottom: 25px;
+    align-items: first baseline;
+    margin-top: 10px;
+}
+.set-up{
+    width: 200px;
+}
+.explain{
+    margin-right: 4px;
+}
+.button-img{
+    height: 20px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+.settings{
+    display: flex;
+}
+.button-design{
+    width: 120px;
+    height: 40px;
+    margin-left: 15px;
+    background-color: blue;
+    border: none;
+    border-radius: 6px;
+    color: white;
+}
+.three-dot{
+    height: 40px;
+    margin-left: 10px;
+    border: 0px;
+    margin-right: 10px;
+    width: 45px;
+    background-color: rgb(168, 167, 167);
+    color: white;
+    border-radius: 5px;
+}
+.profile-down{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.hover-time{
+    position: relative;
+}
+.hover-time:hover .profile-hover{
+    opacity: 1;
+    cursor: pointer;
+}
+.page-one{
+    display: flex;
+    margin-bottom: 7px;
+}
+.explain{
+    margin-right: 10px;
+}
+.link{
+    color: blue;
+}
